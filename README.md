@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Pong
 
-Small project testing out [styled-components](https://www.styled-components.com/docs/basics) and [CSS Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/)  based on the early video game [pong] (https://en.wikipedia.org/wiki/Pong). 
+Small project testing out [styled-components](https://www.styled-components.com/docs/basics) and [CSS Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/)  based on the early video game [pong](https://en.wikipedia.org/wiki/Pong). 
 
 ## Set up
 
